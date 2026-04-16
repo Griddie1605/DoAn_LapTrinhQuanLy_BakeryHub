@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|d:\\dai_hoc\\lap_trinh_quan_ly\\do_an\\code_c#\\quanlytiembanh\\quanlytiembanh\\management\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|solutionrelative:quanlytiembanh\\management\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|d:\\dai_hoc\\lap_trinh_quan_ly\\do_an\\code_c#\\quanlytiembanh\\quanlytiembanh\\management\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|solutionrelative:quanlytiembanh\\management\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|d:\\dai_hoc\\lap_trinh_quan_ly\\do_an\\code_c#\\quanlytiembanh\\quanlytiembanh\\products\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|solutionrelative:quanlytiembanh\\products\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Management\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLyTiemBanh\\Management\\frmThongKe.cs",
+              "ToolTip": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Management\\frmThongKe.cs [Design]",
+              "RelativeToolTip": "QuanLyTiemBanh\\Management\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:35:44.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Products\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyTiemBanh\\Products\\frmSanPham.cs",
+              "ToolTip": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Products\\frmSanPham.cs",
+              "RelativeToolTip": "QuanLyTiemBanh\\Products\\frmSanPham.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAlwFABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:33:46.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmThongKe.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Management\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLyTiemBanh\\Management\\frmThongKe.cs",
+              "ToolTip": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Management\\frmThongKe.cs",
+              "RelativeToolTip": "QuanLyTiemBanh\\Management\\frmThongKe.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAJkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:33:21.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+D:\Dai_Hoc\Lap_Trinh_Net\Đồ án\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.AssemblyReference.cache
+D:\Dai_Hoc\Lap_Trinh_Net\Đồ án\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmLogin.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Đồ án\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.Properties.Resources.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Đồ án\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.GenerateResource.cache
+D:\Dai_Hoc\Lap_Trinh_Net\Đồ án\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.CoreCompileInputs.cache
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.AssemblyReference.cache
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmLogin.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.Properties.Resources.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.GenerateResource.cache
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.csproj.CoreCompileInputs.cache
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.exe.config
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.exe
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\bin\Debug\QuanLyTiemBanh.pdb
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.exe
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.pdb
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.exe.config
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmMain.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmQuanLyNhanVien.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmSanPham.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmTrangChu.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.FrmBanHang_POS_.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmNhapkho.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmQuanLyHoaDon.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmThongKe.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmDanhMuc.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmHuyHang.resources
+D:\Dai_Hoc\Lap_Trinh_Net\Do_An\Code\QuanLyTiemBanh\QuanLyTiemBanh\obj\Debug\QuanLyTiemBanh.frmLichSuNhapKho.resources

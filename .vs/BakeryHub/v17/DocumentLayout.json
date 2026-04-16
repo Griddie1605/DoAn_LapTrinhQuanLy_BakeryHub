@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|d:\\dai_hoc\\lap_trinh_quan_ly\\do_an\\code_c#\\quanlytiembanh\\quanlytiembanh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|solutionrelative:quanlytiembanh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|d:\\dai_hoc\\lap_trinh_quan_ly\\do_an\\code_c#\\quanlytiembanh\\quanlytiembanh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C42881F-297B-4689-B350-020DF9DE9833}|QuanLyTiemBanh\\BakeryHub.csproj|solutionrelative:quanlytiembanh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyTiemBanh\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "QuanLyTiemBanh\\Forms\\frmLogin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:38:25.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyTiemBanh\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Dai_Hoc\\Lap_Trinh_Quan_Ly\\Do_An\\Code_C#\\QuanLyTiemBanh\\QuanLyTiemBanh\\Forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyTiemBanh\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:38:24.373Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
